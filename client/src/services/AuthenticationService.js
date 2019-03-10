@@ -7,7 +7,3 @@ export default {
 }
 
 
-//AuthenticationServices.register({
-//  email: 'testing@gmail.com',
-//  password: '123456'
-//})
